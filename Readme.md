@@ -6,9 +6,7 @@ I am developing my robots based on Robot Operating System (ROS) framework, compl
 
 Main Programming Languages:
 
--Python
-
--php
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allen9629)](https://github.com/allen9629)
 
 Visit my personal website for current and past projects I worked on.
 
