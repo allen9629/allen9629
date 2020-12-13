@@ -16,3 +16,4 @@ Visit my personal website for current and past projects I worked on.
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![image](https://img.shields.io/badge/Windows-ASUS_TUF_GAMING_A15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
