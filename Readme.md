@@ -10,3 +10,9 @@ I am developing my robots based on Robot Operating System (ROS) framework, compl
 Visit my personal website for current and past projects I worked on.
 
 [![allen9629's github stats](https://github-readme-stats.vercel.app/api?username=allen9629&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/allen9629)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-lim-jun-hong-9b061b197/)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/AMD-Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
